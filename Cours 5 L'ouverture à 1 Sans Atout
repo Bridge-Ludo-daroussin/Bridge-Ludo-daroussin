@@ -4,8 +4,12 @@ Rappel : une main régulière ne possède ni chicane ni singleton
 Le premier objectif du partenaire doit être de découvrir un fit majeur, s'il existe, et de déterminer la hauteur du contrat final (une partielle, une manche ou un chelem).
 Le partenaire va aller à la recherche du fit majeur en considérant qu'en cas d'échec de cette recherche, le contrat final sera à Sans Atout. 
 
-Nous étudions tout d’abord les cas où le répondant possède une (ou deux) majeure(s) exactement quatrième(s).
-Il faut utiliser la convention la plus connue de toutes les enchères artificielles du bridge : le Stayman
+Dans les cas, où on possède au moins 4 cartes en majeur... Il faut utiliser la convention la plus connue de toutes les enchères artificielles du bridge : le Stayman
+
+L'enchère de 2 trèfle Stayman du répondant promet :
+- au moins 8H
+- au moins 4 cartes dans une majeure. Elle est aussi utilisée avec les 4-4 et les 5-4 majeurs...
+
 1SA Passe 2 trèfle Stayman chez le partenaire.
 
 Les réponses de l’ouvreur sont les suivantes :
@@ -15,6 +19,30 @@ Les réponses de l’ouvreur sont les suivantes :
 2SA : j’ai quatre Cœurs et quatre Piques.
 Le répondant sait alors s’il y a un fit ou non.
 
+Evitez le Stayman avec les mains 4333 à honneurs dispersés : trop régulières elles se prêtent mal au jeu à l'atout, 
+il vaut mieux alors jouer la manche à SA (9 levées au lieu de 10)
+
+Le 2 trèfle Stayman est bien sûr forcing pour un tour ! 
+
+Avec un bicolore majeur 5-4 sur la réponse de 2 carreau.
+
+Avec 5 cartes en majeur et une main limite de manche :
+Avec moins de 9H, le répondant applique la "misère dorée"
+
+2 coeur avec 5 cartes à coeur
+2 pique avec 5 cartes à pique
+
+L'ouvreur demandera la manche s'il est maximum
+
+Avec un bicolore majeur 5-4 sur la réponse de 2 carreau.
+
+Avec 9H et plus le répondant utilise le chassé croisé :
+
+3 coeur avec 5 cartes à pique et 4 à coeur
+3 pique avec 5 cartes à coeur et 4 à pique
+
+L'ouvreur rectifie à 4 pique ou 4 coeur et sera le déclarant du contrat.
+
 Au cas où la réponse a permis d'écarter l'idée d'un fit.
 
 Sauf s'il a une main particulière comportant un singleton ou une mineure cinquième annexe et un espoir
@@ -22,13 +50,14 @@ de chelem (voir plus tard : "La Théorie du Singleton"), le répondant fait une 
 correspondant à sa force. 
 
 Il dit :
+
 a) 2SA avec 8H (ou 9 4/3/3/3)
 Face à cette enchère non forcing, l'ouvreur annonce 3SA s'il est maximum (16+-17) et passe si son jeu ne
 lui plaît pas.
 
 Dès que le camp possède 25H, le contrat de 3SA est atteint. Quelquefois aussi avec 24 beaux.
 
-b) 3SA avec un jeu de 10 à 15H (ou 9 corrects).
+b) 3SA avec un jeu de 9 à 15H.
 C'est une conclusion qui montre que le répondant n'a pas d'ambition de chelem.
 L'ouvreur n'aura alors qu'à passer.
 
