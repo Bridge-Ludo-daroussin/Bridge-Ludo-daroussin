@@ -1,6 +1,6 @@
 - 👋 Bonjour, je m'appelle Ludovic DAROUSSIN
 - 👀 Je suis intéressé par le Bridge
-- 🌱 J'apprend actuellement le langage bridge
+- 🌱 J'apprend actuellement le langage du bridge
 - 💞️ Je cherche à collaborer sur internet
 - 📫mass_ludo@hotmail.com
 
