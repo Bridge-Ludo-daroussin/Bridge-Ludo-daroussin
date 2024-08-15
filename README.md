@@ -2,7 +2,7 @@
 - 👀 Je suis intéressé par le Bridge
 - 🌱 J'apprend actuellement le langage bridge
 - 💞️ Je cherche à collaborer sur internet
-- 📫 ludo3.daroussin@gmail.com
+- 📫mass_ludo@hotmail.com
 
 
 <!---
