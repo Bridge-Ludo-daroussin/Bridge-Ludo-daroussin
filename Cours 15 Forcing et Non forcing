@@ -110,7 +110,7 @@ Il vous est interdit d'annoncer 3 coeur sans avoir quatre cartes dans cette coul
 
 C'est la raison pour laquelle on a choisi de considérer que la redemande à 2SA, même après : 1 carreau 2 trèfle était assimilée à une redemande forte
 
-1 carreau 1 coeur Forcing
+1 carreau 1 coeur                                                                                                  Forcing
 1 pique 2 trèfle
 2 coeur 2 pique
 C’est le complément indispensable à apporter à la règle précédente pour bien manier la quatrième couleur.
@@ -118,6 +118,13 @@ C’est le complément indispensable à apporter à la règle précédente pour 
 Règle : La quatrième couleur n’est pas forcing de manche si la sixième enchère de la séquence ne dépasse pas 2SA.
 
 Ici, le répondant qui s’est engagé à reparler par l’utilisation de la quatrième couleur au palier de 2, décrit une main
-moyenne d’environ 11 points et comportant au moins un honneur troisième à . Sa quatrième couleur s’explique soit
-par le désir de trouver un fit à , soit par le désir de découvrir un arrêt à 
+moyenne d’environ 11 points et comportant au moins un honneur troisième à pique. Sa quatrième couleur s’explique soit
+par le désir de trouver un fit à coeur, soit par le désir de découvrir un arrêt à trèfle
+
+Les soutiens mineurs différés au palier de 3 sont :
+- après un changement de couleur initial au palier de 2 : toujours forcing.
+- après un changement de couleur initial au palier de 1 : forcing seulement s'ils sont à saut.
+
+Après un bicolore économique de l'ouvreur et une enchère de 2SA du répondant, la répétition de la couleur d'ouverture est forcing, alors que la répétition de la 2ème couleur ne l'est pas 
+et indique plutôt un bicolore faible.
   
