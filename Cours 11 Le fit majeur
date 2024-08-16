@@ -1,6 +1,6 @@
-1 pique - 1 SA = 6 - 8 HLD 3 cartes ou 1 SA = 6/10 non fitté.
+1 pique - 1 SA = 6 - 8 HLD 3 cartes ou 1 SA = 6/10 non fitté. Pareil pour les coeurs 
 
-1 pique - 2 pique = 8-10 HLD, au moins 3 cartes.
+1 pique - 2 pique = 8-10 HLD, au moins 3 cartes. Pareil pour les coeurs
 
 BERGEN Marty Bergen table sur la loi des levées totales. Cette invention, qu'on doit à un Français, Jean-René Verne, est pratiquement tombée dans l'oubli pendant quelques années. 
 Elle consiste en un constat intéressant par Verne. Le nombre de levées totales disponibles est égal au nombre d'atouts que possèdent les mains combinées. 
@@ -103,14 +103,68 @@ Cette fois-ci le répondant annonce un splinter suite à un contre, aidant ainsi
 
 Le saut direct à la manche. 
 
+1 pique - 4 pique = un fit de 5 cartes avec moins de 8H (tendance est barrage. Il ne faut pas avoir deux As ni un As et une chicane.) Pareil pour les coeurs
+
 Si le répondant saute directement à la manche suite à une ouverture en majeure, il montre une main valant au moins 13 points de soutien, mais dont la
 valeur provient en grande partie de la distribution. Le répondant n’a pas d’intérêt pour le chelem sauf si l’ouvreur possède une main titanesque ; l’ouvreur est aussi
 avisé de ne pas contrer pour pénaliser les adversaires s’ils achetaient le contrat final.
 Donc, le saut direct à la manche est une enchère plus faible qu’un saut à la manche fait à retardement. 
 L’ouvreur doit considérer ces informations avant d’entreprendre toute action additionnelle.
 
+Le fit différé :
+Il faut distinguer le fit différé au palier de 4 et celui au palier de 3 :
+1 pique - 2 trèfle -
+2 carreau - 4 pique → Le répondant a « ouverture sur ouverture », la manche est sûre mais il n’y a pas de chelem en vue.
 
+1 pique - 2 trèfle -
+2 carreau - 3 pique → Le répondant a une main forte, son fit différé est une recherche de chelem et demande à l’ouvreur de partir en contrôles.
 
+FITS MAJEURS APRES INTERVENTION
+Introduction :
+L’intervention change évidemment considérablement la réflexion du répondant pour de nombreuses raisons :
+- On entre dans le domaine des compétitives, et le nombre d’atouts dans la ligne va jouer un grand rôle.
+- L’ouvreur ayant de nouveau la parole, le répondant ne parle qu’avec 8 points HL(D), passant avec moins1.
+- Nous parlerons ici du répondant fitté, qui comptera donc ses points en HLD.
+Exemple : Après la séquence de la figure, avec ♠10876 ♥R54 ♦V1043 ♣42 : Passe (7HLD).
+- Le répondant dispose maintenant de deux enchères supplémentaires : Contre et cue-bid.
+On voit que l’intervention ne représente donc pas forcément une gêne pour l’équipe.
+Il y aura d’importantes différences selon que l’intervention se fera par un Contre ou par une couleur.
+- L’intervention par 1SA est un problème à part, traité ailleurs.
+
+Intervention (sans saut) par une couleur :
+A la différence du Contre, l’intervention par la couleur élève les
+enchères, parfois de 5 crans (1 pique-2 coeur)
+
+Les fits directs sont inchangés : après la séquence : 1 coeur - 1 pique/2 trèfle/carreau - ?
+- Avec 8-10HLD, soutien simple à 2♥ (rappelons qu’avec 6 ou 7HLD, on passe pour soutenir plus tard).
+- Avec 11-12HLD et 4 atouts, enchère limite habituelle à 3♥. Ce n’est pas un barrage !
+Ex. : Avec ♠87 ♥V1096 ♦RD3 ♣DV52 : 3♥. Mais : ♠87 ♥V1096 ♦D103 ♣DV52 : 2♥ !
+- Avec 3 atouts seulement et 11-12HLD, on contre avant de donner le fit au tour suivant.
+Rappel : Contre, sans fit par la suite, est évidemment un simple Spoutnik.
+- 4coeur avec 9H max, 5 atouts, parfois 4, et 13-16 HLD. Une levée de défense au maximum (plutôt 0 !).
+- La notion d’absence de levée de défense est essentielle, car elle permet au partenaire de juger au mieux
+de la marche à suivre en cas de surenchère des adversaires : Contre ou surenchère (Passe exclu !) ?
+Ex. : Avec ♠D7 ♥D10964 ♦DV3 ♣V54 : 4♥.
+Mais avec ♠A7 ♥109862 ♦R103 ♣D52 : 2♦ suivi d’un fit à ♥ renouvelé (5 atouts)
+
+Principe : Après intervention (sans saut) à la couleur, les soutiens directs sont inchangés.
+
+Avec des jeux plus forts, donc de manche :
+On dispose de plusieurs moyens différents pour décrire son jeu, très importants et efficaces lorsqu’il s’agit
+d’explorer éventuellement un chelem : l’ouvreur en effet, peut ne pas être minimum2.
+- Le cue-bid : Sans saut, il se fait avec 4 atouts et un jeu de manche au moins (minimum 13HLD).
+- Comme dans le paragraphe précédent, si l’on n’a que 3 atouts : Contre, suivi de la manche.
+- Le splinter : C’est un cue-bid avec saut, indiquant 5 atouts (parfois 4) et une courte dans l'intervention.
+- Rappel : après intervention, il n’y a plus de splinter dans les autres couleurs.
+Exemple : Avec ♠AD7 ♥109862 ♦R1032 ♣2 : 4♣, mais seulement après la séquence 1♥-2♣.
+- Les enchères de rencontre : 4 trèfle (sur 1 pique) et 4 carreau enchères de rencontre avec 10 cartes entre l’atout (minimum 4) et la couleur (parfois 9 belles cartes). 
+Attention : pas de rencontre au niveau de 3 (barrages).
+- Le changement de couleur précédent un fit (souvent 3 cartes, parfois 4), avec 11H (12HL) minimum.
+- Ce sera le cas (fréquent) ou aucune des solutions précédentes ne peut s’appliquer.
+L’esprit est donc le même qu’en l’absence d’intervention.
+Principe : Après intervention à la couleur, les jeux forts peuvent s’exprimer de 4 façons :
+1°) Avec 4 ou 5 atouts, 3 façons : Cue-bid, splinter ou rencontre.
+2°) Avec 3 atouts seulement : changement de couleur suivi du fit.
 
 
 
