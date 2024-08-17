@@ -1,0 +1,95 @@
+1
+Le check-back stayman
+Le check-back Stayman est une enchère qui permet de retrouver un fit majeur après la sé-
+quence :
+1 trèfle/carreau 1 coeur/pique
+2 SA ?
+
+Le Check-back Stayman ne s’utilise qu’avec une majeure 5°, ou un bicolore majeur
+Attention : toute enchère après 2SA est forcing manche ; la seule enchère faible est Passe
+
+Rappel : les enchères possibles du répondant (par exemple après la réponse de 1 pique)
+1. il a un jeu régulier, sans 5 pique (et donc sans 4 coeur), et pas d'espoir de chelem dans la mineure : il
+nomme 3 SA
+2. il a un espoir de chelem dans la mineure (fit 4° ou 5° et 11DH et +) : il soutient la mineure
+d'ouverture au niveau de 3
+3. il a au moins 6 cartes à pique, et pas d'espoir de chelem : il nomme 4 pique
+4. il a au moins 6 cartes à pique et un espoir de chelem, il nomme 3 pique
+5. il a 5 pique et 5 coeur : il nomme 3 coeur
+6. il a un jeu régulier de 12-13 H : il propose le chelem à 4 SA quantitatif
+7. il a un jeu régulier de 14 H et + : il nomme 6 SA
+8. il a une main excentrée et forte avec 6 cares dans la mineure : il fitte au niveau de 4
+9. il a une main excentrée avec la mineure 6° et un jeu faible : il nomme la mineure au niveau de
+cinq
+10. il a 5 pique, avec éventuellement 4 coeur : il utilise pour retrouver le fit majeur le Check-back Stayman
+Les redemandes de l’ouvreur :
+Cas 1 : R.A.S. : Passe
+Cas 2 : L'ouvreur, intéressé, nomme son premier contrôle, sinon il met 3 SA. Le répondant passe
+sur 3SA ou met 4 SA quantitatif
+Cas 3 : R.A.S. : Passe
+Cas 4 : L'ouvreur a 2 possibilités :
+- Avec 2 petits pique, il freine à 3SA
+- Avec 3 pique ou un gros honneur second, il nomme son premier contrôle
+Cas 5 : L'ouvreur :
+- fitte à 3 pique avec 3 cartes, ce qui déclenche une séquence de contrôle, sauf si le répondant
+est faible
+- nomme son premier contrôle, s'il est fitté à coeur, sur lequel le répondant poursuit, sauf s'il est
+faible
+Cas 6 : L'ouvreur passe ou conclut à 6 dans sa mineure ou à SA (il peut aussi répondre au
+Blackwood)
+Cas 7 : R.A.S. : Passe
+Cas 8 : L'ouvreur nomme ses contrôles. Le répondant peut poser le Blackwood à 4 SA ensuite.
+Cas 9 : Sauf cas exceptionnel, l'ouvreur passe
+Cas 10 : Check-back Stayman
+
+Le check-back stayman variable
+
+Son principe est le suivant :
+• Le check-back Stayman se fait dans l'autre mineure
+• L'intérêt pour la mineure d'ouverture se traduit par un fit au niveau de 3
+Cette version conserve au rebid en mineure son sens de jeu fort fitté.
+Cela nous donne les développements suivants :
+Check-back Stayman après 1 pique
+1 trèfle/carreau 1 pique
+2 SA 3 carreau/trèfle
+• 3 coeur : 4 coeur (avec ou sans 3 pique)
+o 3 pique : 5 cartes avec ou sans espoir de chelem ; l'ouvreur s'il possède un fit, est prié de
+nommer un contrôle mineur, afin de couvrir le cas où le répondant avait une main
+forte. Sinon, il met 3SA
+o 3SA : le répondant, qui n'a pas QUE 5 cartes à pique (sinon voir ci-dessus) a donc for-
+cément le fit coeur et 3SA constitue donc un contrôle pique avec un espoir de chelem.
+o 4 trèfle/carreau : agrée l'atout coeur, espoir de chelem, contrôle
+o 4 coeur : arrêt
+o 4 pique : libre (BW atout coeur possible)
+• 3 pique : 3 pique sans 4 coeur
+o 3SA : agrée l'atout pique, espoir de chelem, demande de contrôle
+o 4 trèfle/carreau/coeur : agrée l'atout pique, espoir de chelem, contrôle
+o 4 pique : arrêt
+o 4SA : BW atout pique
+• 3SA : ni 3 pique ni 4 coeur
+Le répondant :
+- passe avec 5 pique sans espoir de chelem
+- nomme 4 pique avec 6 cartes sans espoir de chelem (il avait donc 4 pique)
+- nomme un contrôle avec 6 pique et un espoir de chelem (il avait donc 4 coeur)
+- déclare 4 SA quantitatif avec un espoir de chelem
+Check-back Stayman après 1 ♥
+1 trèfle/carreau 1 coeur
+2SA 3 carreau/trèfle
+• 3 coeur : 3 cartes (sans 4 pique)
+o 3 pique : atout coeur, Contrôle pique
+o 3SA : pas 5 coeur (donc 4 pique), non forcing
+o 4 trèfle/carreau : contrôle (avec 5 coeur donc)
+o 4 coeur : R.A.S. arrêt
+o 4 pique : libre (BW atout coeur possible)
+o 4SA : quantitatif (sans 5 coeur)
+• 3 pique : 4 cartes (avec ou sans 3 coeur)
+o 3 SA : Pas 4 pique (donc 5 coeur), sans espoir de chelem
+o 4 trèfle/carreau/coeur : Fit pique, contrôle
+o 4 pique : Arrêt
+o 4SA : Quantitatif (donc avec 5 coeur, sans 4 pique)
+• 3SA : ni 3 coeur ni 4 pique
+Le répondant :
+- passe avec 5 coeur sans espoir de chelem
+- nomme 4 coeur avec 6 cartes sans espoir de chelem (il avait donc 4 pique)
+- nomme un contrôle mineur avec 6 coeur et un espoir de chelem (il avait donc 4 pique)
+- déclare 4 SA quantitatif avec un espoir de chelem
